@@ -1,0 +1,1254 @@
+{
+    "us-news-ranking": [
+        {
+            "college_name": "Harvard University",
+            "location": "Boston, MA",
+            "rank": 1
+        },
+        {
+            "college_name": "University of Pennsylvania (Wharton)",
+            "location": "Philadelphia, PA",
+            "rank": 2
+        },
+        {
+            "college_name": "University of Chicago (Booth)",
+            "location": "Chicago, IL",
+            "rank": 3
+        },
+        {
+            "college_name": "Massachusetts Institute of Technology (Sloan)",
+            "location": "Cambridge, MA",
+            "rank": 4
+        },
+        {
+            "college_name": "Northwestern University (Kellogg)",
+            "location": "Evanston, IL",
+            "rank": 5
+        },
+        {
+            "college_name": "Stanford University",
+            "location": "Stanford, CA",
+            "rank": 6
+        },
+        {
+            "college_name": "University of California\u2014\u200bBerkeley (Haas)",
+            "location": "Berkeley, CA",
+            "rank": 7
+        },
+        {
+            "college_name": "Dartmouth College (Tuck)",
+            "location": "Hanover, NH",
+            "rank": 8
+        },
+        {
+            "college_name": "Columbia University",
+            "location": "New York, NY",
+            "rank": 9
+        },
+        {
+            "college_name": "Yale University",
+            "location": "New Haven, CT",
+            "rank": 10
+        },
+        {
+            "college_name": "University of Michigan\u2014\u200bAnn Arbor (Ross)",
+            "location": "Ann Arbor, MI",
+            "rank": 11
+        },
+        {
+            "college_name": "Duke University (Fuqua)",
+            "location": "Durham, NC",
+            "rank": 12
+        },
+        {
+            "college_name": "New York University (Stern)",
+            "location": "New York, NY",
+            "rank": 13
+        },
+        {
+            "college_name": "University of Virginia (Darden)",
+            "location": "Charlottesville, VA",
+            "rank": 14
+        },
+        {
+            "college_name": "University of California\u2014\u200bLos Angeles (Anderson)",
+            "location": "Los Angeles, CA",
+            "rank": 15
+        },
+        {
+            "college_name": "Cornell University (Johnson)",
+            "location": "Ithaca, NY",
+            "rank": 16
+        },
+        {
+            "college_name": "University of Texas\u2014\u200bAustin (McCombs)",
+            "location": "Austin, TX",
+            "rank": 17
+        },
+        {
+            "college_name": "University of North Carolina\u2014\u200bChapel Hill (Kenan-\u200bFlagler)",
+            "location": "Chapel Hill, NC",
+            "rank": 18
+        },
+        {
+            "college_name": "Carnegie Mellon University (Tepper)",
+            "location": "Pittsburgh, PA",
+            "rank": 19
+        },
+        {
+            "college_name": "Emory University (Goizueta)",
+            "location": "Atlanta, GA",
+            "rank": 20
+        },
+        {
+            "college_name": "Georgetown University (McDonough)",
+            "location": "Washington, DC",
+            "rank": 21
+        },
+        {
+            "college_name": "Indiana University (Kelley)",
+            "location": "Bloomington, IN",
+            "rank": 22
+        },
+        {
+            "college_name": "Washington University in St. Louis (Olin)",
+            "location": "St. Louis, MO",
+            "rank": 23
+        },
+        {
+            "college_name": "University of Southern California (Marshall)",
+            "location": "Los Angeles, CA",
+            "rank": 24
+        },
+        {
+            "college_name": "Arizona State University (Carey)",
+            "location": "Tempe, AZ",
+            "rank": 25
+        },
+        {
+            "college_name": "Vanderbilt University (Owen)",
+            "location": "Nashville, TN",
+            "rank": 26
+        },
+        {
+            "college_name": "Ohio State University (Fisher)",
+            "location": "Columbus, OH",
+            "rank": 27
+        },
+        {
+            "college_name": "University of Washington (Foster)",
+            "location": "Seattle, WA",
+            "rank": 28
+        },
+        {
+            "college_name": "Georgia Institute of Technology (Scheller)",
+            "location": "Atlanta, GA",
+            "rank": 29
+        },
+        {
+            "college_name": "Rice University (Jones)",
+            "location": "Houston, TX",
+            "rank": 30
+        },
+        {
+            "college_name": "University of Notre Dame (Mendoza)",
+            "location": "Notre Dame, IN",
+            "rank": 31
+        },
+        {
+            "college_name": "Temple University (Fox)",
+            "location": "Philadelphia, PA",
+            "rank": 32
+        },
+        {
+            "college_name": "University of Minnesota\u2014\u200bTwin Cities (Carlson)",
+            "location": "Minneapolis, MN",
+            "rank": 33
+        },
+        {
+            "college_name": "Brigham Young University (Marriott)",
+            "location": "Provo, UT",
+            "rank": 34
+        },
+        {
+            "college_name": "University of Wisconsin\u2014\u200bMadison",
+            "location": "Madison, WI",
+            "rank": 35
+        },
+        {
+            "college_name": "Pennsylvania State University\u2014\u200bUniversity Park (Smeal)",
+            "location": "University Park, PA",
+            "rank": 36
+        },
+        {
+            "college_name": "Michigan State University (Broad)",
+            "location": "East Lansing, MI",
+            "rank": 37
+        },
+        {
+            "college_name": "Texas A&M University\u2014\u200bCollege Station (Mays)",
+            "location": "College Station, TX",
+            "rank": 38
+        },
+        {
+            "college_name": "University of Texas\u2014\u200bDallas",
+            "location": "Richardson, TX",
+            "rank": 39
+        },
+        {
+            "college_name": "University of Florida (Hough)",
+            "location": "Gainesville, FL",
+            "rank": 40
+        },
+        {
+            "college_name": "University of Illinois\u2014\u200bUrbana-\u200bChampaign",
+            "location": "Champaign, IL",
+            "rank": 41
+        },
+        {
+            "college_name": "University of California\u2014\u200bDavis",
+            "location": "Davis, CA",
+            "rank": 42
+        },
+        {
+            "college_name": "University of Rochester (Simon)",
+            "location": "Rochester, NY",
+            "rank": 43
+        },
+        {
+            "college_name": "Boston College (Carroll)",
+            "location": "Chestnut Hill, MA",
+            "rank": 44
+        },
+        {
+            "college_name": "Boston University (Questrom)",
+            "location": "Boston, MA",
+            "rank": 45
+        },
+        {
+            "college_name": "University of California\u2014\u200bIrvine (Merage)",
+            "location": "Irvine, CA",
+            "rank": 46
+        },
+        {
+            "college_name": "University of Maryland\u2014\u200bCollege Park (Smith)",
+            "location": "College Park, MD",
+            "rank": 47
+        },
+        {
+            "college_name": "University of Georgia (Terry)",
+            "location": "Athens, GA",
+            "rank": 48
+        },
+        {
+            "college_name": "University of Arizona (Eller)",
+            "location": "Tucson, AZ",
+            "rank": 49
+        },
+        {
+            "college_name": "Purdue University\u2014\u200bWest Lafayette (Krannert)",
+            "location": "West Lafayette, IN",
+            "rank": 50
+        },
+        {
+            "college_name": "Rutgers, The State University of New Jersey\u2014\u200bNewark and New Brunswick",
+            "location": "Newark, NJ",
+            "rank": 51
+        },
+        {
+            "college_name": "Southern Methodist University (Cox)",
+            "location": "Dallas, TX",
+            "rank": 52
+        },
+        {
+            "college_name": "University of Pittsburgh (Katz)",
+            "location": "Pittsburgh, PA",
+            "rank": 53
+        },
+        {
+            "college_name": "Northeastern University",
+            "location": "Boston, MA",
+            "rank": 54
+        },
+        {
+            "college_name": "University of Alabama (Manderson)",
+            "location": "Tuscaloosa, AL",
+            "rank": 55
+        },
+        {
+            "college_name": "University of Tennessee\u2014\u200bKnoxville (Haslam)",
+            "location": "Knoxville, TN",
+            "rank": 56
+        },
+        {
+            "college_name": "College of William and Mary (Mason)",
+            "location": "Williamsburg, VA",
+            "rank": 57
+        },
+        {
+            "college_name": "CUNY Bernard M. Baruch College (Zicklin)",
+            "location": "New York, NY",
+            "rank": 58
+        },
+        {
+            "college_name": "North Carolina State University (Jenkins)",
+            "location": "Raleigh, NC",
+            "rank": 59
+        },
+        {
+            "college_name": "University of Massachusetts\u2014\u200bAmherst (Isenberg)",
+            "location": "Amherst, MA",
+            "rank": 60
+        },
+        {
+            "college_name": "University of Miami",
+            "location": "Coral Gables, FL",
+            "rank": 61
+        },
+        {
+            "college_name": "University of Utah (Eccles)",
+            "location": "Salt Lake City, UT",
+            "rank": 62
+        },
+        {
+            "college_name": "University of Iowa (Tippie)",
+            "location": "Iowa City, IA",
+            "rank": 63
+        },
+        {
+            "college_name": "Baylor University (Hankamer)",
+            "location": "Waco, TX",
+            "rank": 64
+        },
+        {
+            "college_name": "Iowa State University",
+            "location": "Ames, IA",
+            "rank": 65
+        },
+        {
+            "college_name": "Pepperdine University (Graziadio)",
+            "location": "Malibu, CA",
+            "rank": 66
+        },
+        {
+            "college_name": "University of Connecticut",
+            "location": "Storrs, CT",
+            "rank": 67
+        },
+        {
+            "college_name": "Babson College (Olin)",
+            "location": "Babson Park, MA",
+            "rank": 68
+        },
+        {
+            "college_name": "University of Missouri (Trulaske)",
+            "location": "Columbia, MO",
+            "rank": 69
+        },
+        {
+            "college_name": "Texas Christian University (Neeley)",
+            "location": "Fort Worth, TX",
+            "rank": 70
+        },
+        {
+            "college_name": "University of South Carolina (Moore)",
+            "location": "Columbia, SC",
+            "rank": 71
+        },
+        {
+            "college_name": "Fordham University (Gabelli)",
+            "location": "New York, NY",
+            "rank": 72
+        },
+        {
+            "college_name": "Tulane University (Freeman)",
+            "location": "New Orleans, LA",
+            "rank": 73
+        },
+        {
+            "college_name": "University at Buffalo\u2014\u200bSUNY",
+            "location": "Buffalo, NY",
+            "rank": 74
+        },
+        {
+            "college_name": "University of Arkansas\u2014\u200bFayetteville (Walton)",
+            "location": "Fayetteville, AR",
+            "rank": 75
+        },
+        {
+            "college_name": "Binghamton University\u2014\u200bSUNY",
+            "location": "Binghamton, NY",
+            "rank": 76
+        },
+        {
+            "college_name": "Case Western Reserve University (Weatherhead)",
+            "location": "Cleveland, OH",
+            "rank": 77
+        },
+        {
+            "college_name": "Louisiana State University\u2014\u200bBaton Rouge (Ourso)",
+            "location": "Baton Rouge, LA",
+            "rank": 78
+        },
+        {
+            "college_name": "University of Cincinnati (Lindner)",
+            "location": "Cincinnati, OH",
+            "rank": 79
+        },
+        {
+            "college_name": "University of Colorado\u2014\u200bBoulder (Leeds)",
+            "location": "Boulder, CO",
+            "rank": 80
+        },
+        {
+            "college_name": "University of California\u2014\u200bSan Diego (Rady)",
+            "location": "San Diego, CA",
+            "rank": 81
+        },
+        {
+            "college_name": "Auburn University (Harbert)",
+            "location": "Auburn, AL",
+            "rank": 82
+        },
+        {
+            "college_name": "Stevens Institute of Technology",
+            "location": "Hoboken, NJ",
+            "rank": 83
+        },
+        {
+            "college_name": "University of Oklahoma (Price)",
+            "location": "Norman, OK",
+            "rank": 84
+        },
+        {
+            "college_name": "University of Kentucky (Gatton)",
+            "location": "Lexington, KY",
+            "rank": 85
+        },
+        {
+            "college_name": "University of Louisville",
+            "location": "Louisville, KY",
+            "rank": 86
+        },
+        {
+            "college_name": "Drexel University (LeBow)",
+            "location": "Philadelphia, PA",
+            "rank": 87
+        },
+        {
+            "college_name": "Syracuse University (Whitman)",
+            "location": "Syracuse, NY",
+            "rank": 88
+        },
+        {
+            "college_name": "Thunderbird School of Global Management",
+            "location": "Glendale, AZ",
+            "rank": 89
+        },
+        {
+            "college_name": "Rochester Institute of Technology (Saunders)",
+            "location": "Rochester, NY",
+            "rank": 90
+        },
+        {
+            "college_name": "University at Albany\u2014\u200bSUNY",
+            "location": "Albany, NY",
+            "rank": 91
+        },
+        {
+            "college_name": "DePaul University (Kellstadt)",
+            "location": "Chicago, IL",
+            "rank": 92
+        },
+        {
+            "college_name": "University of California\u2014\u200bRiverside (Anderson)",
+            "location": "Riverside, CA",
+            "rank": 93
+        },
+        {
+            "college_name": "University of Houston (Bauer)",
+            "location": "Houston, TX",
+            "rank": 94
+        },
+        {
+            "college_name": "American University (Kogod)",
+            "location": "Washington, DC",
+            "rank": 95
+        },
+        {
+            "college_name": "Appalachian State University (Walker)",
+            "location": "Boone, NC",
+            "rank": 96
+        },
+        {
+            "college_name": "Belmont University (Massey)",
+            "location": "Nashville, TN",
+            "rank": 97
+        },
+        {
+            "college_name": "Bowling Green State University",
+            "location": "Bowling Green, OH",
+            "rank": 98
+        },
+        {
+            "college_name": "Chapman University (Argyros)",
+            "location": "Orange, CA",
+            "rank": 99
+        },
+        {
+            "college_name": "Clarkson University",
+            "location": "Potsdam, NY",
+            "rank": 100
+        },
+        {
+            "college_name": "Clark University",
+            "location": "Worcester, MA",
+            "rank": 101
+        },
+        {
+            "college_name": "Clemson University",
+            "location": "Greenville, SC",
+            "rank": 102
+        },
+        {
+            "college_name": "College of Charleston",
+            "location": "Charleston, SC",
+            "rank": 103
+        },
+        {
+            "college_name": "George Mason University",
+            "location": "Fairfax, VA",
+            "rank": 104
+        },
+        {
+            "college_name": "Hofstra University (Zarb)",
+            "location": "Hempstead, NY",
+            "rank": 105
+        },
+        {
+            "college_name": "Howard University",
+            "location": "Washington, DC",
+            "rank": 106
+        },
+        {
+            "college_name": "La Salle University",
+            "location": "Philadelphia, PA",
+            "rank": 107
+        },
+        {
+            "college_name": "Mercer University\u2014\u200bAtlanta (Stetson)",
+            "location": "Atlanta, GA",
+            "rank": 108
+        },
+        {
+            "college_name": "Missouri University of Science & Technology",
+            "location": "Rolla, MO",
+            "rank": 109
+        },
+        {
+            "college_name": "Northern Arizona University (Franke)",
+            "location": "Flagstaff, AZ",
+            "rank": 110
+        },
+        {
+            "college_name": "Oklahoma State University (Spears)",
+            "location": "Stillwater, OK",
+            "rank": 111
+        },
+        {
+            "college_name": "Oregon State University",
+            "location": "Corvallis, OR",
+            "rank": 112
+        },
+        {
+            "college_name": "Pace University (Lubin)",
+            "location": "New York, NY",
+            "rank": 113
+        },
+        {
+            "college_name": "Rollins College (Crummer)",
+            "location": "Winter Park, FL",
+            "rank": 114
+        },
+        {
+            "college_name": "San Diego State University",
+            "location": "San Diego, CA",
+            "rank": 115
+        },
+        {
+            "college_name": "St. Bonaventure University",
+            "location": "St. Bonaventure, NY",
+            "rank": 116
+        },
+        {
+            "college_name": "Suffolk University (Sawyer)",
+            "location": "Boston, MA",
+            "rank": 117
+        },
+        {
+            "college_name": "SUNY\u2014\u200bOswego",
+            "location": "Oswego, NY",
+            "rank": 118
+        },
+        {
+            "college_name": "University of Colorado\u2014\u200bDenver",
+            "location": "Denver, CO",
+            "rank": 119
+        },
+        {
+            "college_name": "University of Delaware (Lerner)",
+            "location": "Newark, DE",
+            "rank": 120
+        },
+        {
+            "college_name": "University of Denver (Daniels)",
+            "location": "Denver, CO",
+            "rank": 121
+        },
+        {
+            "college_name": "University of Mississippi",
+            "location": "University, MS",
+            "rank": 122
+        },
+        {
+            "college_name": "University of North Carolina\u2014\u200bGreensboro (Bryan)",
+            "location": "Greensboro, NC",
+            "rank": 123
+        },
+        {
+            "college_name": "University of Oregon (Lundquist)",
+            "location": "Eugene, OR",
+            "rank": 124
+        },
+        {
+            "college_name": "University of San Diego",
+            "location": "San Diego, CA",
+            "rank": 125
+        },
+        {
+            "college_name": "University of San Francisco",
+            "location": "San Francisco, CA",
+            "rank": 126
+        },
+        {
+            "college_name": "University of South Florida",
+            "location": "Tampa, FL",
+            "rank": 127
+        },
+        {
+            "college_name": "University of Tulsa (Collins)",
+            "location": "Tulsa, OK",
+            "rank": 128
+        },
+        {
+            "college_name": "West Virginia University",
+            "location": "Morgantown, WV",
+            "rank": 129
+        },
+        {
+            "college_name": "Willamette University (Atkinson)",
+            "location": "Salem, OR",
+            "rank": 130
+        },
+        {
+            "college_name": "Abilene Christian University",
+            "location": "Abilene, TX",
+            "rank": 131
+        },
+        {
+            "college_name": "Adelphi University",
+            "location": "Garden City, NY",
+            "rank": 132
+        },
+        {
+            "college_name": "Alfred University",
+            "location": "Alfred, NY",
+            "rank": 133
+        },
+        {
+            "college_name": "Arkansas State University\u2014\u200bJonesboro",
+            "location": "State University, AR",
+            "rank": 134
+        },
+        {
+            "college_name": "Arkansas Tech University",
+            "location": "Russellville, AR",
+            "rank": 135
+        },
+        {
+            "college_name": "Auburn University\u2014\u200bMontgomery",
+            "location": "Montgomery, AL",
+            "rank": 136
+        },
+        {
+            "college_name": "Augusta University",
+            "location": "Augusta, GA",
+            "rank": 137
+        },
+        {
+            "college_name": "Ball State University (Miller)",
+            "location": "Muncie, IN",
+            "rank": 138
+        },
+        {
+            "college_name": "Barry University",
+            "location": "Miami Shores, FL",
+            "rank": 139
+        },
+        {
+            "college_name": "Bellarmine University (Rubel)",
+            "location": "Louisville, KY",
+            "rank": 140
+        },
+        {
+            "college_name": "Bentley University",
+            "location": "Waltham, MA",
+            "rank": 141
+        },
+        {
+            "college_name": "Berry College (Campbell)",
+            "location": "Mount Berry, GA",
+            "rank": 142
+        },
+        {
+            "college_name": "Black Hills State University",
+            "location": "Spearfish, SD",
+            "rank": 143
+        },
+        {
+            "college_name": "Bloomsburg University of Pennsylvania",
+            "location": "Bloomsburg, PA",
+            "rank": 144
+        },
+        {
+            "college_name": "Boise State University",
+            "location": "Boise, ID",
+            "rank": 145
+        },
+        {
+            "college_name": "Bradley University (Foster)",
+            "location": "Peoria, IL",
+            "rank": 146
+        },
+        {
+            "college_name": "Brandeis University",
+            "location": "Waltham, MA",
+            "rank": 147
+        },
+        {
+            "college_name": "Bryant University",
+            "location": "Smithfield, RI",
+            "rank": 148
+        },
+        {
+            "college_name": "Butler University",
+            "location": "Indianapolis, IN",
+            "rank": 149
+        },
+        {
+            "college_name": "California Polytechnic State University\u2014\u200bSan Luis Obispo (Orfalea)",
+            "location": "San Luis Obispo, CA",
+            "rank": 150
+        },
+        {
+            "college_name": "California State Polytechnic University\u2014\u200bPomona",
+            "location": "Pomona, CA",
+            "rank": 151
+        },
+        {
+            "college_name": "California State University\u2014\u200bBakersfield",
+            "location": "Bakersfield, CA",
+            "rank": 152
+        },
+        {
+            "college_name": "California State University\u2014\u200bChico",
+            "location": "Chico, CA",
+            "rank": 153
+        },
+        {
+            "college_name": "California State University\u2014\u200bEast Bay",
+            "location": "Hayward, CA",
+            "rank": 154
+        },
+        {
+            "college_name": "California State University\u2014\u200bFresno (Craig)",
+            "location": "Fresno, CA",
+            "rank": 155
+        },
+        {
+            "college_name": "California State University\u2014\u200bFullerton (Mihaylo)",
+            "location": "Fullerton, CA",
+            "rank": 156
+        },
+        {
+            "college_name": "California State University\u2014\u200bLong Beach",
+            "location": "Long Beach, CA",
+            "rank": 157
+        },
+        {
+            "college_name": "California State University\u2014\u200bLos Angeles",
+            "location": "Los Angeles, CA",
+            "rank": 158
+        },
+        {
+            "college_name": "California State University\u2014\u200bNorthridge (Nazarian)",
+            "location": "Northridge, CA",
+            "rank": 159
+        },
+        {
+            "college_name": "California State University\u2014\u200bSacramento",
+            "location": "Sacramento, CA",
+            "rank": 160
+        },
+        {
+            "college_name": "California State University\u2014\u200bSan Bernardino",
+            "location": "San Bernardino, CA",
+            "rank": 161
+        },
+        {
+            "college_name": "California State University\u2014\u200bStanislaus",
+            "location": "Turlock, CA",
+            "rank": 162
+        },
+        {
+            "college_name": "Canisius College (Wehle)",
+            "location": "Buffalo, NY",
+            "rank": 163
+        },
+        {
+            "college_name": "Central Connecticut State University",
+            "location": "New Britain, CT",
+            "rank": 164
+        },
+        {
+            "college_name": "Central Michigan University",
+            "location": "Mount Pleasant, MI",
+            "rank": 165
+        },
+        {
+            "college_name": "The Citadel",
+            "location": "Charleston, SC",
+            "rank": 166
+        },
+        {
+            "college_name": "Claremont Graduate University (Drucker)",
+            "location": "Claremont, CA",
+            "rank": 167
+        },
+        {
+            "college_name": "Clarion University of Pennsylvania",
+            "location": "Clarion, PA",
+            "rank": 168
+        },
+        {
+            "college_name": "Clark Atlanta University",
+            "location": "Atlanta, GA",
+            "rank": 169
+        },
+        {
+            "college_name": "Clayton State University",
+            "location": "Morrow, GA",
+            "rank": 170
+        },
+        {
+            "college_name": "Cleveland State University (Ahuja)",
+            "location": "Cleveland, OH",
+            "rank": 171
+        },
+        {
+            "college_name": "Coastal Carolina University",
+            "location": "Conway, SC",
+            "rank": 172
+        },
+        {
+            "college_name": "College at Brockport\u2014\u200bSUNY",
+            "location": "Brockport, NY",
+            "rank": 173
+        },
+        {
+            "college_name": "Colorado State University",
+            "location": "Fort Collins, CO",
+            "rank": 174
+        },
+        {
+            "college_name": "Colorado State University\u2014\u200bPueblo",
+            "location": "Pueblo, CO",
+            "rank": 175
+        },
+        {
+            "college_name": "Columbus State University (Turner)",
+            "location": "Columbus, GA",
+            "rank": 176
+        },
+        {
+            "college_name": "Creighton University",
+            "location": "Omaha, NE",
+            "rank": 177
+        },
+        {
+            "college_name": "Delaware State University",
+            "location": "Dover, DE",
+            "rank": 178
+        },
+        {
+            "college_name": "Dominican University (Brennan)",
+            "location": "River Forest, IL",
+            "rank": 179
+        },
+        {
+            "college_name": "Drury University",
+            "location": "Springfield, MO",
+            "rank": 180
+        },
+        {
+            "college_name": "Duquesne University (Donahue)",
+            "location": "Pittsburgh, PA",
+            "rank": 181
+        },
+        {
+            "college_name": "East Carolina University",
+            "location": "Greenville, NC",
+            "rank": 182
+        },
+        {
+            "college_name": "Eastern Illinois University (Lumpkin)",
+            "location": "Charleston, IL",
+            "rank": 183
+        },
+        {
+            "college_name": "Eastern Kentucky University",
+            "location": "Richmond, KY",
+            "rank": 184
+        },
+        {
+            "college_name": "Eastern Michigan University",
+            "location": "Ypsilanti, MI",
+            "rank": 185
+        },
+        {
+            "college_name": "Eastern Washington University",
+            "location": "Spokane, WA",
+            "rank": 186
+        },
+        {
+            "college_name": "East Tennessee State University",
+            "location": "Johnson City, TN",
+            "rank": 187
+        },
+        {
+            "college_name": "Elon University (Love)",
+            "location": "Elon, NC",
+            "rank": 188
+        },
+        {
+            "college_name": "Emporia State University",
+            "location": "Emporia, KS",
+            "rank": 189
+        },
+        {
+            "college_name": "Fairfield University (Dolan)",
+            "location": "Fairfield, CT",
+            "rank": 190
+        },
+        {
+            "college_name": "Fairleigh Dickinson University (Silberman)",
+            "location": "Teaneck, NJ",
+            "rank": 191
+        },
+        {
+            "college_name": "Fayetteville State University",
+            "location": "Fayetteville, NC",
+            "rank": 192
+        },
+        {
+            "college_name": "Florida Atlantic University",
+            "location": "Boca Raton, FL",
+            "rank": 193
+        },
+        {
+            "college_name": "Florida Gulf Coast University (Lutgert)",
+            "location": "Fort Myers, FL",
+            "rank": 194
+        },
+        {
+            "college_name": "Florida International University",
+            "location": "Miami, FL",
+            "rank": 195
+        },
+        {
+            "college_name": "Florida Southern College",
+            "location": "Lakeland, FL",
+            "rank": 196
+        },
+        {
+            "college_name": "Florida State University",
+            "location": "Tallahassee, FL",
+            "rank": 197
+        },
+        {
+            "college_name": "Francis Marion University",
+            "location": "Florence, SC",
+            "rank": 198
+        },
+        {
+            "college_name": "Frostburg State University",
+            "location": "Frostburg, MD",
+            "rank": 199
+        },
+        {
+            "college_name": "George Washington University",
+            "location": "Washington, DC",
+            "rank": 200
+        },
+        {
+            "college_name": "Columbus State University (Turner)",
+            "location": "Columbus, GA",
+            "rank": 201
+        },
+        {
+            "college_name": "Creighton University",
+            "location": "Omaha, NE",
+            "rank": 202
+        },
+        {
+            "college_name": "Delaware State University",
+            "location": "Dover, DE",
+            "rank": 203
+        },
+        {
+            "college_name": "Dominican University (Brennan)",
+            "location": "River Forest, IL",
+            "rank": 204
+        },
+        {
+            "college_name": "Drury University",
+            "location": "Springfield, MO",
+            "rank": 205
+        },
+        {
+            "college_name": "Duquesne University (Donahue)",
+            "location": "Pittsburgh, PA",
+            "rank": 206
+        },
+        {
+            "college_name": "East Carolina University",
+            "location": "Greenville, NC",
+            "rank": 207
+        },
+        {
+            "college_name": "Eastern Illinois University (Lumpkin)",
+            "location": "Charleston, IL",
+            "rank": 208
+        },
+        {
+            "college_name": "Eastern Kentucky University",
+            "location": "Richmond, KY",
+            "rank": 209
+        },
+        {
+            "college_name": "Eastern Michigan University",
+            "location": "Ypsilanti, MI",
+            "rank": 210
+        },
+        {
+            "college_name": "Eastern Washington University",
+            "location": "Spokane, WA",
+            "rank": 211
+        },
+        {
+            "college_name": "East Tennessee State University",
+            "location": "Johnson City, TN",
+            "rank": 212
+        },
+        {
+            "college_name": "Elon University (Love)",
+            "location": "Elon, NC",
+            "rank": 213
+        },
+        {
+            "college_name": "Emporia State University",
+            "location": "Emporia, KS",
+            "rank": 214
+        },
+        {
+            "college_name": "Fairfield University (Dolan)",
+            "location": "Fairfield, CT",
+            "rank": 215
+        },
+        {
+            "college_name": "Fairleigh Dickinson University (Silberman)",
+            "location": "Teaneck, NJ",
+            "rank": 216
+        },
+        {
+            "college_name": "Fayetteville State University",
+            "location": "Fayetteville, NC",
+            "rank": 217
+        },
+        {
+            "college_name": "Florida Atlantic University",
+            "location": "Boca Raton, FL",
+            "rank": 218
+        },
+        {
+            "college_name": "Florida Gulf Coast University (Lutgert)",
+            "location": "Fort Myers, FL",
+            "rank": 219
+        },
+        {
+            "college_name": "Florida International University",
+            "location": "Miami, FL",
+            "rank": 220
+        },
+        {
+            "college_name": "Florida Southern College",
+            "location": "Lakeland, FL",
+            "rank": 221
+        },
+        {
+            "college_name": "Florida State University",
+            "location": "Tallahassee, FL",
+            "rank": 222
+        },
+        {
+            "college_name": "Francis Marion University",
+            "location": "Florence, SC",
+            "rank": 223
+        },
+        {
+            "college_name": "Frostburg State University",
+            "location": "Frostburg, MD",
+            "rank": 224
+        },
+        {
+            "college_name": "George Washington University",
+            "location": "Washington, DC",
+            "rank": 225
+        },
+        {
+            "college_name": "Kennesaw State University (Coles)",
+            "location": "Kennesaw, GA",
+            "rank": 226
+        },
+        {
+            "college_name": "Kent State University",
+            "location": "Kent, OH",
+            "rank": 227
+        },
+        {
+            "college_name": "King's College (McGowan)",
+            "location": "Wilkes-Barre, PA",
+            "rank": 228
+        },
+        {
+            "college_name": "Kutztown University of Pennsylvania",
+            "location": "Kutztown, PA",
+            "rank": 229
+        },
+        {
+            "college_name": "Lamar University",
+            "location": "Beaumont, TX",
+            "rank": 230
+        },
+        {
+            "college_name": "Lehigh University",
+            "location": "Bethlehem, PA",
+            "rank": 231
+        },
+        {
+            "college_name": "Le Moyne College",
+            "location": "Syracuse, NY",
+            "rank": 232
+        },
+        {
+            "college_name": "LIU Post",
+            "location": "Brookville, NY",
+            "rank": 233
+        },
+        {
+            "college_name": "Longwood University",
+            "location": "Farmville, VA",
+            "rank": 234
+        },
+        {
+            "college_name": "Louisiana State University\u2014\u200bShreveport",
+            "location": "Shreveport, LA",
+            "rank": 235
+        },
+        {
+            "college_name": "Louisiana Tech University",
+            "location": "Ruston, LA",
+            "rank": 236
+        },
+        {
+            "college_name": "Loyola Marymount University",
+            "location": "Los Angeles, CA",
+            "rank": 237
+        },
+        {
+            "college_name": "Loyola University Chicago (Quinlan)",
+            "location": "Chicago, IL",
+            "rank": 238
+        },
+        {
+            "college_name": "Loyola University Maryland (Sellinger)",
+            "location": "Baltimore, MD",
+            "rank": 239
+        },
+        {
+            "college_name": "Loyola University New Orleans (Butt)",
+            "location": "New Orleans, LA",
+            "rank": 240
+        },
+        {
+            "college_name": "Manhattan College",
+            "location": "Riverdale, NY",
+            "rank": 241
+        },
+        {
+            "college_name": "Marist College",
+            "location": "Poughkeepsie, NY",
+            "rank": 242
+        },
+        {
+            "college_name": "Marquette University",
+            "location": "Milwaukee, WI",
+            "rank": 243
+        },
+        {
+            "college_name": "Marshall University (Lewis)",
+            "location": "Huntington, WV",
+            "rank": 244
+        },
+        {
+            "college_name": "McNeese State University",
+            "location": "Lake Charles, LA",
+            "rank": 245
+        },
+        {
+            "college_name": "Meredith College",
+            "location": "Raleigh, NC",
+            "rank": 246
+        },
+        {
+            "college_name": "Miami University (Farmer)",
+            "location": "Oxford, OH",
+            "rank": 247
+        },
+        {
+            "college_name": "Michigan Technological University",
+            "location": "Houghton, MI",
+            "rank": 248
+        },
+        {
+            "college_name": "Middlebury Institute of International Studies (Fisher)",
+            "location": "Monterey, CA",
+            "rank": 249
+        },
+        {
+            "college_name": "Middle Tennessee State University",
+            "location": "Murfreesboro, TN",
+            "rank": 250
+        }
+    ]
+}

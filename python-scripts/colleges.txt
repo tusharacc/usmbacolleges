@@ -1,0 +1,402 @@
+Alabama$College of Business and Public Affairs$Alabama A&M University$Huntsville$Yes
+Alabama$Culverhouse College of Commerce and Business Administration$University of Alabama$Tuscaloosa$Yes
+Alabama$School of Business[2]$University of Alabama at Birmingham$Birmingham$Yes
+Alabama$College of Business Administration[3]$University of Alabama in Huntsville$Huntsville$Yes
+Alabama$Raymond J. Harbert College of Business$Auburn University$Auburn$Yes
+Alabama$Brock School of Business$Samford University$Birmingham$Yes
+Alabama$Mitchell College of Business$University of South Alabama$Mobile$Yes
+Arizona$W. P. Carey School of Business$Arizona State University$Tempe$Yes
+Arizona$Thunderbird School of Global Management$Arizona State University$Glendale$Yes
+Arizona$W. A. Franke College of Business$Northern Arizona University$Flagstaff$Yes
+Arizona$Eller College of Management$University of Arizona$Tucson$Yes
+Arkansas$Sam M. Walton College of Business$University of Arkansas$Fayetteville$Yes
+California$Jabs School of Business$California Baptist University$Riverside$No
+California$Business School$California Pacific University[5]$Pinole$No
+California$Ageno School of Business[6]$Golden Gate University$San Francisco$No
+California$A. Gary Anderson Graduate School of Management$University of California, Riverside$Riverside$Yes
+California$George L. Argyros School of Business and Economics$Chapman University$Orange$Yes
+California$College of Business$San Francisco State University$San Francisco$Yes
+California$College of Business Administration$California State University, Long Beach$Long Beach$Yes
+California$College of Business Administration$Loyola Marymount University$Los Angeles$Yes
+California$College of Business Administration$San Diego State University$San Diego$Yes
+California$Crowell School of Business$Biola University$La Mirada$No
+California$Peter F. Drucker and Masatoshi Ito Graduate School of Management$Claremont Graduate University$Claremont$Yes
+California$Eberhardt School of Business$University of the Pacific$Stockton$Yes
+California$Fisher Graduate School of International Business$Monterey Institute of International Studies$Monterey$Yes
+California$Graduate School of Management$University of California, Davis$Davis$Yes
+California$Marshall Goldsmith School of Management$Alliant International University$Fresno$No
+California$Graziadio School of Business and Management[7]$Pepperdine University$Malibu$Yes
+California$Haas School of Business$University of California, Berkeley$Berkeley$Yes
+California$Hult International Business School$Hult International Business School$San Francisco$Yes
+California$Leavey School of Business$Santa Clara University$Santa Clara$Yes
+California$Lucas College and School of Business$San Jose State University$San Jose$Yes
+California$Marshall School of Business$University of Southern California$Los Angeles$Yes
+California$Paul Merage School of Business$University of California, Irvine$Irvine$Yes
+California$Steven G. Mihaylo College of Business and Economics$California State University, Fullerton$Fullerton$Yes
+California$Orfalea College of Business$California Polytechnic State University, San Luis Obispo$San Luis Obispo$Yes
+California$Rady School of Management$University of California, San Diego$La Jolla$Yes
+California$School of Business$Woodbury University$Burbank$Yes
+California$School of Business$Concordia University Irvine$Irvine$No
+California$School of Business Administration$University of San Diego$San Diego$Yes
+California$School of Business and Economics$California State University East Bay$Hayward$Yes
+California$School of Business and Management$Azusa Pacific University$Azusa$Yes
+California$School of Business and Management$University of San Francisco$San Francisco$Yes
+California$Martin V. Smith School of Business & Economics$California State University, Channel Islands$Camarillo$Yes
+California$Stanford Graduate School of Business$Stanford University$Stanford$Yes
+California$UCLA Anderson School of Management$University of California, Los Angeles$Los Angeles$Yes
+Colorado$College of Business$Colorado State University$Fort Collins$Yes
+Colorado$Business School$University of Colorado Denver$Denver$Yes
+Colorado$Daniels College of Business$University of Denver$Denver$Yes
+Colorado$Leeds School of Business$University of Colorado at Boulder$Boulder$Yes
+Colorado$College of Business$Johnson & Wales University$Denver$No
+Colorado$Kenneth W. Monfort College of Business$University of Northern Colorado$Greeley$Yes
+Connecticut$Ancell School of Business$Western Connecticut State University$Danbury$No
+Connecticut$Barney School of Business$University of Hartford$Hartford$Yes
+Connecticut$Charles F. Dolan School of Business$Fairfield University$Fairfield$Yes
+Connecticut$Ernest C. Trefz School of Business$University of Bridgeport$Bridgeport$No
+Connecticut$Lender School of Business$Quinnipiac University$Hamden$Yes
+Connecticut$School of Business$University of Connecticut$Storrs$Yes
+Connecticut$College of Business$University of New Haven$West Haven$No
+Connecticut$John F. Welch College of Business$Sacred Heart University$Fairfield$Yes
+Connecticut$Yale School of Management$Yale University$New Haven$Yes
+Delaware$Alfred Lerner College of Business and Economics$University of Delaware$Newark$Yes
+District of Columbia$Kogod School of Business$American University$Washington, D.C.$Yes
+District of Columbia$McDonough School of Business$Georgetown University$Washington, D.C.$Yes
+District of Columbia$George Washington School of Business$The George Washington University$Washington, D.C.$Yes
+Florida$Andreas School of Business$Barry University$Miami Shores$Yes
+Florida$Business Administration Department$Carlos Albizu University$Miami$No
+Florida$Coggin College of Business$University of North Florida$Jacksonville$Yes
+Florida$College of Business, Daytona Beach Campus[10]$Embry-Riddle Aeronautical University$Daytona$No
+Florida$College of Business$Florida State University$Tallahassee$Yes
+Florida$College of Business$University of South Florida$St. Petersburg$Yes
+Florida$College of Business Administration$Florida International University$Miami$Yes
+Florida$College of Business Administration$University of Central Florida$Orlando$Yes
+Florida$College of Business and Management$Lynn University$Boca Raton$No (IACBE)
+Florida$Crummer Graduate School of Business$Rollins College$Winter Park$Yes
+Florida$John H. Sykes College of Business$The University of Tampa$Tampa$Yes
+Florida$H. Wayne Huizenga School of Business and Entrepreneurship$Nova Southeastern University$Davie$No
+Florida$College of Business$Johnson & Wales University$North Miami$No
+Florida$Barry Kaye College of Business$Florida Atlantic University$Boca Raton$Yes
+Florida$Lutgert College of Business$Florida Gulf Coast University$Fort Myers$Yes
+Florida$School of Business Administration$University of Miami$Coral Gables$Yes
+Florida$School of Business and Industry$Florida A&M University$Tallahassee$No
+Florida$Warrington College of Business Administration$University of Florida$Gainesville$Yes
+Georgia$J. Mack Robinson College of Business$Georgia State University$Atlanta$Yes
+Georgia$Scheller College of Business$Georgia Institute of Technology$Atlanta$Yes
+Georgia$Goizueta Business School$Emory University$Atlanta$Yes
+Georgia$Coles College of Business$Kennesaw State University$Kennesaw$Yes
+Georgia$College of Business Administration[16]$Georgia Southern University$Statesboro$Yes
+Georgia$College of Business & Mass Communication[17]$Brenau University$Gainesville$No (ACBSP)
+Georgia$J. Whitney Bunting School of Business[18]$Georgia College & State University$Milledgeville$Yes
+Georgia$James M. Hull College of Business$Georgia Regents University$Augusta$Yes
+Georgia$Terry College of Business$The University of Georgia$Athens$Yes
+Georgia$The School of Business[21]$Clayton State University$Morrow$Yes
+Georgia$Eugene W. Stetson School of Business and Economics$Mercer University$Macon$Yes
+Hawaii$Shidler College of Business$University of Hawaii at Manoa$Honolulu$Yes
+Hawaii$School Of Business & Economics$Atlantic International University[22]$Honolulu$No
+Idaho$College of Business and Economics$Boise State University$Boise$Yes
+Idaho$College of Business$Idaho State University$Pocatello$Yes
+Idaho$College of Business and Economics$University of Idaho$Moscow$Yes
+Illinois$College of Business$Benedictine University$Lisle$No
+Illinois$Lumpkin College of Business & Applied Sciences$Eastern Illinois University$Charleston$Yes
+Illinois$Booth School of Business$University of Chicago$Chicago$Yes
+Illinois$College Of Business$Chicago State University$Chicago$No
+Illinois$College of Business$Illinois State University$Normal$Yes
+Illinois$College of Business$Northern Illinois University$DeKalb$Yes
+Illinois$College of Business Administration (undergraduate)$University of Illinois at Chicago$Chicago$Yes
+Illinois$College of Business$University of Illinois at Urbana-Champaign$Champaign$Yes
+Illinois$College of Business and Administration$Southern Illinois University Carbondale$Carbondale$Yes
+Illinois$College of Business and Management$Northeastern Illinois University$Chicago$No
+Illinois$College of Business and Public Administration$Governors State University$University Park$No
+Illinois$Driehaus College of Business (undergraduate)$DePaul University$Chicago$Yes
+Illinois$Foster College of Business Administration$Bradley University$Peoria$Yes
+Illinois$Loyola University Chicago Quinlan School of Business$Loyola University Chicago$Chicago$Yes
+Illinois$Kellogg School of Management$Northwestern University$Evanston$Yes
+Illinois$Kellstadt Graduate School of Business$DePaul University$Chicago$Yes
+Illinois$Liautaud Graduate School of Business$University of Illinois at Chicago$Chicago$Yes
+Illinois$School of Business$Southern Illinois University Edwardsville$Edwardsville$Yes
+Illinois$Robert Morris School of Business Administration$Robert Morris University (Illinois)$Chicago$No
+Illinois$Loyola University Chicago Quinlan School of Business(undergraduate)$Loyola University Chicago$Chicago$Yes
+Illinois$Stuart School of Business$Illinois Institute of Technology$Chicago$Yes
+Illinois$Tabor School of Business$Millikin University$Decatur$No
+Indiana$College of Business Administration$Valparaiso University$Valparaiso$Yes
+Indiana$Richard T. Doermer School of Business and Management Sciences$Indiana University-Purdue University Fort Wayne$Fort Wayne$Yes
+Indiana$Kelley School of Business$Indiana University$Bloomington & Indianapolis$Yes
+Indiana$Krannert School of Management$Purdue University$West Lafayette$Yes
+Indiana$Mendoza College of Business$University of Notre Dame$Notre Dame$Yes
+Indiana$Miller College of Business$Ball State University$Muncie$Yes
+Iowa$Iowa Central College Online[23]$Iowa Central Community College$Fort Dodge$No
+Iowa$College of Business & Public Administration$Drake University$Des Moines$Yes
+Iowa$Iowa State College of Business$Iowa State University$Ames$Yes
+Iowa$Department of Business Administration$Maharishi University of Management$Fairfield$No
+Iowa$School of Business$University of Dubuque$Dubuque$No
+Iowa$Tippie College of Business$University of Iowa$Iowa City$Yes
+Kansas$Division of Business and Economics$Benedictine College$Atchison$No
+Kansas$School of Business$University of Kansas$Lawrence$Yes
+Kansas$School of Business$Emporia State University$Emporia$Yes
+Kansas$School of Business$University of Saint Mary$Leavenworth$No
+Kansas$School of Business$Washburn University$Topeka$Yes
+Kansas$Barton School of Business$Wichita State University$Wichita$Yes
+Kentucky$W. Fielding Rubel School of Business$Bellarmine University$Louisville$Yes
+Kentucky$College of Business$Northern Kentucky University$Highland Heights$Yes
+Kentucky$College of Business$University of Louisville$Louisville$Yes
+Kentucky$Gatton College of Business and Economics$University of Kentucky$Lexington$Yes
+Louisiana$The Joseph A. Butt, S.J., College of Business$Loyola University New Orleans$New Orleans$Yes
+Louisiana$College of Business$Louisiana Tech University$Ruston$Yes
+Louisiana$College of Business$Southern University$Baton Rouge$Yes
+Louisiana$College of Business Administration$University of New Orleans$New Orleans$Yes
+Louisiana$Freeman School of Business$Tulane University$New Orleans$Yes
+Louisiana$E. J. Ourso College of Business$Louisiana State University$Baton Rouge$Yes
+Maine$Maine Business School$University of Maine$Orono$Yes
+Maryland$Sellinger School of Business and Management$Loyola University Maryland$Baltimore$Yes
+Maryland$The Earl. G. Graves School of Business & Management$Morgan State University$Baltimore$Yes
+Maryland$Carey Business School$Johns Hopkins University$Baltimore$Yes
+Maryland$Robert G. Merrick School of Business$University of Baltimore$Baltimore$Yes
+Maryland$Robert H. Smith School of Business[25]$University of Maryland, College Park$College Park$Yes
+Massachusetts$Bentley University McCallum Graduate School of Business$Bentley University$Waltham$Yes
+Massachusetts$Brandeis International Business School$Brandeis University$Waltham$Yes
+Massachusetts$Carroll School of Management$Boston College$Chestnut Hill$Yes
+Massachusetts$D'Amore-McKim School of Business[26]$Northeastern University$Boston$Yes
+Massachusetts$The Manning School of Business$University of Massachusetts Lowell$Lowell$Yes
+Massachusetts$Girard School of Business and International Commerce$Merrimack College$North Andover$No
+Massachusetts$Graduate School of Business Administration$Northeastern University$Boston$Yes
+Massachusetts$Graduate School of Management$Clark University$Worcester$Yes
+Massachusetts$Harvard Business School$Harvard University$Cambridge$Yes
+Massachusetts$Hult International Business School$Hult International Business School$Cambridge$Yes
+Massachusetts$Isenberg School of Management$University of Massachusetts Amherst$Amherst$Yes
+Massachusetts$Charlton College of Business$University of Massachusetts Dartmouth$Dartmouth$Yes
+Massachusetts$MIT Sloan School of Management$Massachusetts Institute of Technology$Cambridge$Yes
+Massachusetts$F.W. Olin Graduate School of Business$Babson College$Babson Park$Yes
+Massachusetts$Sawyer Business School$Suffolk University$Boston$Yes
+Massachusetts$School of Business$Western New England College$Springfield$Yes
+Massachusetts$School of Business$Worcester Polytechnic Institute$Worcester$Yes
+Massachusetts$School of Management[28]$Boston University$Boston$Yes
+Michigan$College of Business Administration$University of Detroit Mercy$Detroit$Yes
+Michigan$College of General and Technical Business Studies$Cleary University$Howell$No
+Michigan$College of Management and Applied Business Studies$Cleary University$Howell$No
+Michigan$College of Professional and Graduate Business Studies$Cleary University$Howell$No
+Michigan$Davos School of Management$Northwood University$Midland$No
+Michigan$Donald W. Maine College of Business[29]$Davenport University$Grand Rapids$IACBE
+Michigan$Eastern Michigan University College of Business$Eastern Michigan University$Ypsilanti$Yes
+Michigan$Eli Broad College of Business$Michigan State University$East Lansing$Yes
+Michigan$Haworth College of Business$Western Michigan University$Kalamazoo$Yes
+Michigan$Ross School of Business$University of Michigan$Ann Arbor$Yes
+Michigan$School of Business Administration$Wayne State University$Detroit$Yes
+Michigan$School of Business Administration$Oakland University$Rochester, Michigan$Yes
+Michigan$Seidman College of Business$Grand Valley State University$Grand Rapids$Yes
+Minnesota$Carlson School of Management$University of Minnesota$Minneapolis$Yes
+Minnesota$Excel School of Business$Excel College$Plymouth$No
+Minnesota$Hamline University School of Business$Hamline University$St. Paul$No
+Minnesota$Opus College of Business$University of St. Thomas$St. Paul$Yes
+Mississippi$College of Business$Jackson State University$Jackson$Yes
+Mississippi$Mississippi College School of Business$Mississippi College$Clinton$No
+Mississippi$School of Business$William Carey University$Hattiesburg$[IACEB]
+Mississippi$College of Business$Mississippi University for Women$Columbus$No
+Mississippi$College of Business$University of Southern Mississippi$Hattiesburg$Yes
+Mississippi$College of Business$Mississippi State University$Starkville$Yes
+Mississippi$University of Mississippi School of Business Administration$University of Mississippi$Oxford$Yes
+Missouri$Henry W. Bloch School of Business and Public Administration$University of Missouri-Kansas City$Kansas City$Yes
+Missouri$College of Business Administration$Missouri State University$Springfield$Yes
+Missouri$College of Business Administration$University of Missouri-St. Louis$St. Louis$Yes
+Missouri$John Cook School of Business$Saint Louis University$St. Louis$Yes
+Missouri$Olin Business School$Washington University in St. Louis$St. Louis$Yes
+Missouri$Trulaske College of Business$University of Missouri$Columbia$Yes
+Missouri$Business Management Program$Vatterott College$St. Louis$No
+Missouri$Business and Information Technology (BIT) Department$Missouri University of Science and Technology$Rolla$Yes
+Montana$Jake Jabs College of Business & Entrepreneurship$Montana State University$Bozeman$Yes
+Montana$School of Business Administration$University of Montana$Missoula$Yes
+Nebraska$College of Business Administration$Creighton University$Omaha$Yes
+Nebraska$College of Business Administration$Bellevue University$Bellevue$Yes
+Nebraska$College of Business Administration$University of Nebraska-Lincoln$Lincoln$Yes
+Nevada$Lee Business School$University of Nevada, Las Vegas$Paradise$Yes
+Nevada$College of Business Administration$University of Nevada, Reno$Reno$Yes
+New Hampshire$School of Business$Southern New Hampshire University$Manchester$No (ACBSP)
+New Hampshire$School of Business$Plymouth State University$Plymouth$No (ACBSP)
+New Hampshire$Tuck School of Business$Dartmouth College$Hanover$Yes
+New Hampshire$The Whittemore School of Business and Economics$University of New Hampshire$Durham$Yes
+New Jersey$Silberman College of Business$Fairleigh Dickinson University$Madison / Florham Park / Teaneckand Hackensack$Yes
+New Jersey$College of Business and Public Administration$Kean University$Union Township$No
+New Jersey$School of Business[31]$Montclair State University$Montclair$Yes
+New Jersey$School of Management$New Jersey Institute of Technology$Newark$Yes
+New Jersey$Rutgers Business School$Rutgers University$Newark and New Brunswick$Yes
+New Jersey$Rutgers School of Business – Camden$Rutgers University$Camden$No
+New Jersey$School of Business Administration$Saint Peter's University$Jersey City$No
+New Jersey$Stillman School of Business$Seton Hall University$South Orange$Yes
+New Jersey$School of Business[32]$Stevens Institute of Technology$Hoboken$Yes
+New Jersey$School of Business$Stockton University$Galloway$No
+New Jersey$School of Business$The College of New Jersey$Ewing$Yes
+New Jersey$Christos M. Cotsakos College of Business$William Paterson University of New Jersey$Wayne$Yes
+New Mexico$Anderson School of Management$University of New Mexico$Albuquerque$Yes
+New York$College of Business Administration (undergraduate)$Fordham University$New York City$Yes
+New York$College of Management$Long Island University C.W. Post Campus$Brookville$Yes
+New York$Columbia Business School$Columbia University$New York City$Yes
+New York$Graduate Business Program$Touro College$New York City$No
+New York$Graduate School of Business Administration$Fordham University$New York City$Yes
+New York$Hagan School of Business$Iona College$New Rochelle$Yes
+New York$Samuel Curtis Johnson Graduate School of Management$Cornell University$Ithaca$Yes
+New York$School of Business$Clarkson University$Potsdam$Yes
+New York$King Graduate School of Business$Monroe College$The Bronx$No
+New York$Lally School of Management & Technology$Rensselaer Polytechnic Institute$Troy$Yes
+New York$Lubin School of Business$Pace University$New York City and White Plains$Yes
+New York$E. Philip Saunders College of Business$Rochester Institute of Technology$Henrietta$Yes
+New York$Zicklin School of Business$Baruch College$New York City$Yes
+New York$School of Business$Adelphi University$Garden City$Yes
+New York$School of Business$State University of New York Institute of Technology (SUNYIT)$Utica$Yes
+New York$School of Business, Public Administration and Information Sciences$Long Island University, Brooklyn Campus$Brooklyn$No
+New York$School of Business$Brooklyn College, City University of New York,$Brooklyn$No
+New York$School of Management$Binghamton University$Binghamton$Yes
+New York$School of Management$New York Institute of Technology$Old Westbury$No
+New York$School of Management$The State University of New York at Buffalo$Buffalo$Yes
+New York$William E. Simon Graduate School of Business Administration$University of Rochester$Rochester$Yes
+New York$Stern School of Business$New York University$New York City$Yes
+New York$The Peter J. Tobin College of Business$St. John's University$Queens$Yes
+New York$Martin J. Whitman School of Management$Syracuse University$Syracuse$Yes
+New York$Frank G. Zarb School of Business$Hofstra University$Hempstead$Yes
+North Carolina$Babcock Graduate School of Management$Wake Forest University$Winston-Salem$Yes
+North Carolina$Belk College of Business$University of North Carolina at Charlotte$Charlotte$Yes
+North Carolina$Bryan School of Business and Economics$University of North Carolina at Greensboro$Greensboro$Yes
+North Carolina$Calloway School of Business and Accountancy(undergraduate)$Wake Forest University$Winston-Salem$Yes
+North Carolina$Cameron School of Business$University of North Carolina at Wilmington$Wilmington$Yes
+North Carolina$Earl N. Philips School of Business$High Point University$High Point$Yes
+North Carolina$Plato S. Wilson School of Commerce$High Point University$High Point$Yes
+North Carolina$College of Business$East Carolina University$Greenville$Yes
+North Carolina$College of Business$University of North Carolina at Pembroke$Pembroke$No; in pursuit
+North Carolina$College of Management$North Carolina State University$Raleigh$Yes
+North Carolina$Fuqua School of Business$Duke University$Durham$Yes
+North Carolina$Kenan-Flagler Business School$University of North Carolina at Chapel Hill$Chapel Hill$Yes
+North Carolina$Martha and Spencer Love School of Business$Elon University$Greensboro$Yes
+North Carolina$Lundy-Fetterman School of Business$Campbell University$Buies Creek$No
+North Carolina$College of Business$Johnson & Wales University$Charlotte$No
+North Carolina$School of Business$North Carolina Central University$Durham$Yes
+North Carolina$SKEMA Business School$Skema Business School$Raleigh$Yes
+North Dakota$College of Business and Public Administration$University of North Dakota$Grand Forks$Yes
+Ohio$College of Business[39]$Ohio University$Athens$Yes
+Ohio$Carl H. Lindner College of Business$University of Cincinnati$Cincinnati$Yes
+Ohio$College of Business Administration$Bowling Green State University$Bowling Green$Yes
+Ohio$College of Business Administration$Ohio Northern University$Ada$Yes
+Ohio$College of Business Administration$University of Akron$Akron$Yes
+Ohio$College of Business Administration$University of Toledo$Toledo$Yes
+Ohio$College of Business Administration and Graduate School of Management$Kent State University$Kent$Yes
+Ohio$Richard T. Farmer School of Business$Miami University$Oxford$Yes
+Ohio$Fisher College of Business$Ohio State University$Columbus$Yes
+Ohio$Monte Ahuja College of Business$Cleveland State University$Cleveland$Yes
+Ohio$The DeVille School of Business$Walsh University$North Canton$Candidate
+Ohio$Raj Soin College of Business$Wright State University$Dayton$Yes
+Ohio$School of Business Administration$University of Dayton$Dayton$Yes
+Ohio$Weatherhead School of Management$Case Western Reserve University$Cleveland$Yes
+Ohio$Williams College of Business$Xavier University$Cincinnati$Yes
+Oklahoma$College of Business Administration$The University of Tulsa$Tulsa$Yes
+Oklahoma$Meinders School of Business$Oklahoma City University$Oklahoma City$Yes
+Oklahoma$Michael F. Price College of Business$University of Oklahoma$Norman$Yes
+Oklahoma$School of Business$Oklahoma Baptist University$Shawnee$No
+Oklahoma$School of Business$Oral Roberts University$Tulsa$No
+Oklahoma$William S. Spears School of Business$Oklahoma State University–Stillwater$Stillwater$Yes
+Oregon$Atkinson Graduate School of Management$Willamette University$Salem$Yes
+Oregon$College of Business$Oregon State University$Corvallis$Yes
+Oregon$Charles H. Lundquist College of Business$University of Oregon$Eugene$Yes
+Oregon$Dr. Robert B. Pamplin, Jr. School of Business Administration$University of Portland$Portland$Yes
+Oregon$School of Business Administration$Portland State University$Portland$Yes
+Oregon$School of Management$George Fox University$Newberg$No
+Pennsylvania$Sam and Irene Black School of Business$Pennsylvania State University – Erie, The Behrend College$Erie$Yes
+Pennsylvania$Lehigh University College of Business and Economics$Lehigh University$Bethlehem, Pennsylvania$Yes
+Pennsylvania$College of Business Administration (undergraduate)$University of Pittsburgh$Pittsburgh$Yes
+Pennsylvania$Donahue Graduate School of Business$Duquesne University$Pittsburgh$Yes
+Pennsylvania$Fox School of Business$Temple University$Philadelphia$Yes
+Pennsylvania$John L. Grove College of Business$Shippensburg University of Pennsylvania$Shippensburg$Yes
+Pennsylvania$Haub School of Business$Saint Joseph's University$Philadelphia$Yes
+Pennsylvania$Kania School of Management$University of Scranton$Scranton$Yes
+Pennsylvania$Joseph M. Katz Graduate School of Business$University of Pittsburgh$Pittsburgh$Yes
+Pennsylvania$La Salle School of Business$La Salle University$Philadelphia$Yes
+Pennsylvania$LeBow College of Business$Drexel University$Philadelphia$Yes
+Pennsylvania$A.J. Palumbo School of Business Administration(undergraduate)$Duquesne University$Pittsburgh$Yes
+Pennsylvania$School of Business Administration$Philadelphia University$Philadelphia$No
+Pennsylvania$College of Business and Public Affairs$West Chester University of Pennsylvania$West Chester, Pennsylvania$Yes
+Pennsylvania$School of Business Administration$Widener University$Harrisburg$Yes
+Pennsylvania$Jay S. Sidhu School of Business and Leadership$Wilkes University$Wilkes-Barre$Yes
+Pennsylvania$Smeal College of Business$Penn State University$University Park$Yes
+Pennsylvania$Tepper School of Business$Carnegie Mellon University$Pittsburgh$Yes
+Pennsylvania$Villanova School of Business$Villanova University$Villanova$Yes
+Pennsylvania$The Wharton School$University of Pennsylvania$Philadelphia$Yes
+Rhode Island$College of Business$Bryant University$Smithfield$Yes
+Rhode Island$College of Business$Johnson & Wales University$Providence$No
+Rhode Island$College of Business Administration$University of Rhode Island$Kingston$Yes
+Rhode Island$Gabelli School of Business$Roger Williams University$Bristol$Yes
+South Carolina$Baker School of Business$The Citadel, The Military College of South Carolina$Charleston$Yes
+South Carolina$College of Business and Behavioral Science$Clemson University$Clemson$Yes
+South Carolina$Moore School of Business$University of South Carolina$Columbia$Yes
+South Carolina$Wall College of Business$Coastal Carolina University$Conway$Yes
+South Dakota$School of Business$University of South Dakota$Vermillion$Yes
+Tennessee$College of Business$Lipscomb University$Nashville$No
+Tennessee$Haslam College of Business[40]$University of Tennessee$Knoxville$Yes
+Tennessee$McAfee School of Business Administration$Union University$Jackson$Yes
+Tennessee$College of Business Administration (undergraduate)$Belmont University$Nashville$Yes
+Tennessee$Jennings A. Jones College of Business (undergraduate and graduate)$Middle Tennessee State University$Murfreesboro$Yes
+Tennessee$College of Business Administration (undergraduate and graduate)$University of Tennessee at Chattanooga$Chattanooga$Yes
+Tennessee$College of Business and Technology$East Tennessee State University$Johnson City$Yes
+Tennessee$Fogelman College of Business and Economics$University of Memphis$Memphis$Yes
+Tennessee$The Jack C. Massey Graduate School of Business$Belmont University$Nashville$Yes
+Tennessee$Owen Graduate School of Management$Vanderbilt University$Nashville$Yes
+Texas$C.T. Bauer College of Business$University of Houston$Houston$Yes
+Texas$College of Business$Angelo State University$San Angelo$Yes
+Texas$College of Business$University of Houston–Clear Lake$Pasadena$Yes
+Texas$College of Business$University of North Texas$Denton$Yes
+Texas$College of Business Administration$The University of Texas at Arlington$Arlington$Yes
+Texas$College of Business Administration$The University of Texas at El Paso$El Paso$Yes
+Texas$College of Business Administration$The University of Texas–Pan American$Edinburg$Yes
+Texas$College of Business - Graduate School of Management$University of Dallas$Irving$Yes
+Texas$College of Business$The University of Texas at San Antonio$San Antonio$Yes
+Texas$Cox School of Business$Southern Methodist University$Dallas$Yes
+Texas$Davies College of Business$University of Houston–Downtown$Houston$Yes
+Texas$Bill Greehey School of Business$St. Mary's University$San Antonio$Yes
+Texas$Hankamer School of Business$Baylor University$Waco$Yes
+Texas$Naveen Jindal School of Management$The University of Texas at Dallas$Richardson$Yes
+Texas$Jesse H. Jones Graduate School of Management$Rice University$Houston$Yes
+Texas$College of Business$Sam Houston State University$Huntsville, Texas$Yes
+Texas$College of Business$Texas A&M University - Commerce$Commerce, Texas$Yes
+Texas$Jesse H. Jones School of Business$Texas Southern University$Houston$Yes
+Texas$Bill Munday School of Business$St. Edward's University$Austin$No
+Texas$Kelley College of Business$Hardin-Simmons University$Abilene$No
+Texas$Mays Business School$Texas A&M University$College Station$Yes
+Texas$McCombs School of Business$The University of Texas at Austin$Austin$Yes
+Texas$McCoy College of Business Administration$Texas State University$San Marcos$Yes
+Texas$Neeley School of Business$Texas Christian University$Fort Worth$Yes
+Texas$Rawls College of Business$Texas Tech University$Lubbock$Yes
+Texas$School of Business Administration$University of Houston–Victoria$Victoria$Yes
+Texas$School of Business Administration and Professional Programs$Texas Wesleyan University$Fort Worth$No
+Utah$David Eccles School of Business$University of Utah$Salt Lake City$Yes
+Utah$John B. Goddard School of Business & Economics$Weber State University$Ogden$Yes
+Utah$Jon M. Huntsman School of Business$Utah State University$Logan$Yes
+Utah$Marriott School of Management$Brigham Young University$Provo$Yes
+Utah$Woodbury School of Business$Utah Valley University$Orem$Yes
+Vermont$School of Business Administration$University of Vermont$Burlington$Yes
+Vermont$Norwich University Online[41]$Norwich University$Northfield$Yes
+Virginia$The Williams School of Commerce, Economics and Politics$Washington and Lee University$Lexington$Yes
+Virginia$Harry F. Byrd Jr. School of Business$Shenandoah University$Winchester$Yes
+Virginia$College of Business$University of Mary Washington$Fredericksburg$No; in pursuit
+Virginia$College of Business$James Madison University$Harrisonburg$Yes
+Virginia$School of Business$Liberty University$Lynchburg$No
+Virginia$College of Business and Public Administration$Old Dominion University$Norfolk$Yes
+Virginia$College of Business$IGlobal University$Annandale$No
+Virginia$Darden School of Business$University of Virginia$Charlottesville$Yes
+Virginia$Joseph W. Luter III College of Business and Leadership$Christopher Newport University$Newport News$Yes
+Virginia$Mason School of Business$The College of William & Mary$Williamsburg$Yes
+Virginia$McIntire School of Commerce(undergraduate)$University of Virginia$Charlottesville$Yes
+Virginia$Pamplin College of Business$Virginia Polytechnic Institute and State University$Blacksburg$Yes
+Virginia$E. Claiborne Robins School of Business$University of Richmond$Richmond$Yes
+Virginia$School of Business$Virginia Commonwealth University$Richmond$Yes
+Virginia$School of Business and Economics$Lynchburg College$Lynchburg$No
+Virginia$School of Management$George Mason University$Fairfax$Yes
+Virginia$College of Business and Economics$Radford University$Radford$Yes
+Virginia$School of Business Administration[42]$Stratford University$Alexandria, Falls Church, Glen Allen, Newport News, Virginia Beach, Woodbridge, and Online$No (ACICS, CHEA)
+Washington$Albers School of Business and Economics$Seattle University$Seattle$Yes
+Washington$Carson College of Business[43]$Washington State University$Pullman$Yes
+Washington$Michael G. Foster School of Business$University of Washington$Seattle$Yes
+Washington$Milgard School of Business[44]$University of Washington Tacoma$Tacoma$Yes
+Washington$School of Business$Pacific Lutheran University$Tacoma$Yes
+Washington$School of Management$City University of Seattle$Bellevue$No
+West Virginia$College of Business & Economics$West Virginia University$Morgantown$Yes
+West Virginia$Elizabeth McDowell Lewis College of Business$Marshall University$Huntington$Yes
+Wisconsin$College of Business Administration$Marquette University$Milwaukee$Yes
+Wisconsin$Sheldon B. Lubar School of Business$University of Wisconsin–Milwaukee$Milwaukee$Yes
+Wisconsin$Wisconsin School of Business$University of Wisconsin–Madison$Madison$Yes
+Wyoming$College of Business$University of Wyoming$Laramie$Yes
