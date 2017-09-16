@@ -12,9 +12,9 @@
   <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 </head>
 <body>
-	<div id="container">
+	<div id="container-fluid">
     
-    <div style="background:black;color:white;width:100%;">
+    <div style="background:black;color:white;">
     <form class="form-inline" style="margin-left:20%;">
 
       <input type="text" class="form-control mb-2 mr-sm-2 mb-sm-0" id="stateInput" placeholder="State" onchange="FilterState()">
@@ -50,7 +50,12 @@
     function FilterState(){
     var state = document.getElementById('stateInput').value;
     var rank = document.querySelector('input[name = "inlineRadioOptions"]:checked').value;
-    console.log('Rank :', rank)
+    var doNotCheckLocation = false;
+    if (!Boolean(state)){
+      console.log('Inside State :', state);
+      doNotCheckLocation = true;
+    }
+    
     colleges = gon.colleges;
     var start=0,end=0;
     switch (rank) {
@@ -75,7 +80,7 @@
     for (i = start; i < end; i++){
       location_array = colleges[i].location.split(',');
       college_state = location_array[location_array.length-1];
-      if (college_state.trim() == state) {
+      if (college_state.trim() == state || doNotCheckLocation) {
         filteredArray.push(colleges[i]);
       }
     }
