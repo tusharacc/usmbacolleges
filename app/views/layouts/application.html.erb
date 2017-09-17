@@ -84,19 +84,10 @@
         filteredArray.push(colleges[i]);
       }
     }
-    // colleges.forEach(function(element){
-    //   location_array = element.location.split(',');
-    //   college_state = location_array[location_array.length-1];
-    //   //console.log("College State -",college_state+"-----");
-    //   if (college_state.trim() == state) {
-    //     filteredArray.push(element);
-    //   }
-    // });
     colleges = filteredArray;
     console.log('Filetered Array :',filteredArray);
-    initMap();
+    initMap(state);
   }
-    console.log("I am getting triggered");
     document.getElementById("stateInput").addEventListener("onchange", FilterState);
   </script>
 </body>
