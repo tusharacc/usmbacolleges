@@ -1,4 +1,4 @@
-function initMap(state=null) {
+function initMap(state) {
   console.log("State value in index.js",state);
   var latLng,zoomlevel;
   if (Boolean(state)){
@@ -44,6 +44,7 @@ function initMap(state=null) {
   // Add a marker clusterer to manage the markers.
   var markerCluster = new MarkerClusterer(map, markers,
       {imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'});
+  
 
   populateAccordion();
 }
@@ -100,6 +101,8 @@ function FilterState(){
   }
 
   var filteredArray = [];
+  var a,b,d,c,de;
+
   for (i = start; i < end; i++){
     location_array = colleges[i].location.split(',');
     college_state = location_array[location_array.length-1];
