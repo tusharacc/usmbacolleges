@@ -11,4 +11,18 @@
 	min-height: 100%;
     height: 100%;
 }
+
+.header{
+  background-color:#075fef;
+  color:white;
+  padding:0 0 0 0;
+  margin:0 0 0 0;
+}
+
+.wrapper{
+  background-color:#cfdff9;
+  padding:0 0 0 0;
+  border: 0 0 0 0;
+}
+
 /* Optional: Makes the sample page fill the window. */

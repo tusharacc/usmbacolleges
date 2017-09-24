@@ -23,6 +23,7 @@ function initMap(state=null) {
   // Create an array of alphabetical characters used to label the markers.
   var labels = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
   var infoWin = new google.maps.InfoWindow();
+  
   // Add some markers to the map.
   // Note: The code uses the JavaScript Array.prototype.map() method to
   // create an array of markers based on a given "locations" array.
@@ -43,6 +44,72 @@ function initMap(state=null) {
   // Add a marker clusterer to manage the markers.
   var markerCluster = new MarkerClusterer(map, markers,
       {imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'});
+
+  populateAccordion();
+}
+
+function populateAccordion (){
+
+  var accordion,h1,div,p,h1,p;
+  colleges.forEach(function(college){
+
+    accordion = document.getElementById('accordion');
+    div = document.createElement('div'); 
+    h6 = document.createElement('h6'); 
+    p1 = document.createElement('p');
+    p2 = document.createElement('p');
+    h6.appendChild(document.createTextNode(college.name));    
+    p1.appendChild(document.createTextNode(college.location));   
+    p2.appendChild(document.createTextNode(college.ranking));    
+    div.className  += ' wrapper';
+    h6.className += ' header';                         
+      
+    accordion.appendChild(h6); 
+    accordion.appendChild(div);
+    div.appendChild(p1); 
+    div.appendChild(p2); 
+
+  });
+                    
+}
+
+function FilterState(){
+  
+  var state = document.getElementById('stateInput').value;
+  var rank = document.querySelector('input[name = "inlineRadioOptions"]:checked').value;
+  var doNotCheckLocation = false;
+  if (!Boolean(state)){
+    doNotCheckLocation = true;
+  }
+  
+  colleges = gon.colleges;
+  var start=0,end=0;
+  switch (rank) {
+    case '25':
+      start = 0;
+      end = 26;
+      break;
+    case '50':
+      start = 26;
+      end = 51;
+      break;
+    default:
+      start = 0;
+      end = colleges.length;
+      break;
+  }
+
+  var filteredArray = [];
+  for (i = start; i < end; i++){
+    location_array = colleges[i].location.split(',');
+    college_state = location_array[location_array.length-1];
+    if (college_state.trim() == state || doNotCheckLocation) {
+      filteredArray.push(colleges[i]);
+    }
+  }
+  colleges = filteredArray;
+
+  initMap(state);
 }
 
 var colleges = gon.colleges;
@@ -99,3 +166,6 @@ var stateLatLng =  [{'Alabama':[32.806671,-86.791130]},
                     {'Wisconsin':[44.268543,-89.616508]},
                     {'Wyoming':[42.755966,-107.30249]}
 ];
+
+const states = ['Alabama', 'Alaska', 'Arizona', 'Arkansas', 'California', 'Colorado', 'Connecticut', 'Delaware', 'District of Columbia', 'Florida', 'Georgia', 'Hawaii', 'Idaho', 'Illinois', 'Indiana', 'Iowa', 'Kansas', 'Kentucky', 'Louisiana', 'Maine', 'Maryland', 'Massachusetts', 'Michigan', 'Minnesota', 'Mississippi', 'Missouri', 'Montana', 'Nebraska', 'Nevada', 'New Hampshire', 'New Jersey', 'New Mexico', 'New York', 'North Carolina', 'North Dakota', 'Ohio', 'Oklahoma', 'Oregon', 'Pennsylvania', 'Rhode Island', 'South Carolina', 'South Dakota', 'Tennessee', 'Texas', 'Utah', 'Vermont', 'Virginia', 'Washington', 'West Virginia', 'Wisconsin', 'Wyoming'];
+
