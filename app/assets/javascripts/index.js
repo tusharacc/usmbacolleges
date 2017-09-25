@@ -1,5 +1,4 @@
-function initMap(state) {
-  console.log("State value in index.js",state);
+function initMap(state,filteredCollege){
   var latLng,zoomlevel;
   if (Boolean(state)){
     stateLatLng.forEach (function(elem){
@@ -12,7 +11,7 @@ function initMap(state) {
   } else {
     latLng = {lat: 38.83, lng: -98.58}
     zoomlevel = 3;
-
+    filteredCollege = colleges;
   }
   console.log('Latitude n Longtitude :',latLng);
   var map = new google.maps.Map(document.getElementById('map'), {
@@ -46,12 +45,14 @@ function initMap(state) {
       {imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'});
   
 
-  populateAccordion();
+  populateAccordion(filteredCollege);
 }
 
-function populateAccordion (){
+function populateAccordion (colleges){
 
   var accordion,h1,div,p,h1,p;
+  console.log(colleges);
+  document.getElementById('accordion').innerHTML = '';
   colleges.forEach(function(college){
 
     accordion = document.getElementById('accordion');
@@ -112,7 +113,7 @@ function FilterState(){
   }
   colleges = filteredArray;
 
-  initMap(state);
+  initMap(state, colleges);
 }
 
 var colleges = gon.colleges;
