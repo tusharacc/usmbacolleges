@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The Website shows the google map of US and number of college in each region. The Map can be drilled down to state, city, place.
 
-Things you may want to cover:
+Link - https://usmbacolleges.herokuapp.com/
 
-* Ruby version
+Not a very fast site, as the intention was not to create an efficient site but to create a map so that few of my friends can have a look whie deciding MBA college.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
